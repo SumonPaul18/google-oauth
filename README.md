@@ -1,7 +1,5 @@
 # Using Google OAuth for Sign UP / Sign In using users Google Account
 
-#### Google OAuth Credentials কিভাবে পাবেন
-
 #### 1. Google OAuth Credentials কিভাবে পাবেন:
 Google OAuth Credentials পেতে নিচের ধাপগুলো অনুসরণ করুন:
 
