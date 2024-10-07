@@ -7,7 +7,7 @@
 #### 1. Google OAuth Credentials কিভাবে পাবেন:
 Google OAuth Credentials পেতে নিচের ধাপগুলো অনুসরণ করুন:
 
-- 1. **Google Cloud Console এ যান**: Google Cloud Console এ যান এবং আপনার Google অ্যাকাউন্ট দিয়ে লগইন করুন।
+1. **Google Cloud Console এ যান**: Google Cloud Console এ যান এবং আপনার Google অ্যাকাউন্ট দিয়ে লগইন করুন।
 
 2. **প্রজেক্ট তৈরি করুন**: একটি নতুন প্রজেক্ট তৈরি করুন বা একটি বিদ্যমান প্রজেক্ট নির্বাচন করুন।
 
