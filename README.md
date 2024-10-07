@@ -2,8 +2,6 @@
 
 #### Google OAuth Credentials কিভাবে পাবেন
 
-### Secret Key এবং Google OAuth Credentials কিভাবে পাবেন
-
 #### 1. Google OAuth Credentials কিভাবে পাবেন:
 Google OAuth Credentials পেতে নিচের ধাপগুলো অনুসরণ করুন:
 
